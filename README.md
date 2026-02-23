@@ -13,7 +13,7 @@ I am an Information Science Engineering graduate with strong hands-on experience
 I specialize in building **AI-powered applications using Deep Learning (CNNs)** and developing **scalable full-stack web systems using Django**. I am passionate about solving real-world problems and delivering high-quality, production-ready software solutions.
 
 ## 📫 Connect With Me
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+<img src="C:\Users\LOKESH VELURU\OneDrive\Desktop\LinkedIn.svg">
 
 ## 🛠 Languages, Frameworks & Tools
 
